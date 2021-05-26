@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/calvertyang/opentok-go-sdk/v2/opentok"
+	"github.com/usertesting/opentok-go-sdk/v2/opentok"
 )
 
 const (
